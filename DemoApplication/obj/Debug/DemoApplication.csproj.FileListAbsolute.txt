@@ -1,0 +1,9 @@
+F:\_Programirane\C#\C-Sharp\DemoApplication\bin\Debug\DemoApplication.exe.config
+F:\_Programirane\C#\C-Sharp\DemoApplication\bin\Debug\DemoApplication.exe
+F:\_Programirane\C#\C-Sharp\DemoApplication\bin\Debug\DemoApplication.pdb
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.csprojAssemblyReference.cache
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.Form1.resources
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.Properties.Resources.resources
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.csproj.GenerateResource.cache
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.exe
+F:\_Programirane\C#\C-Sharp\DemoApplication\obj\Debug\DemoApplication.pdb
